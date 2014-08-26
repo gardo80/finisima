@@ -1,4 +1,4 @@
 finisima
 ========
 
-finisima belgian golden ale beer
+this is finisima belgian golden ale beer
